@@ -1,2 +1,2 @@
 # ngCastle
-The mikrosau homebrew playground, bringing medevil castle solutions into the future - NG style. 
+The mikrosau homebrew playground, bringing medieval castle solutions into the future - NG style. 
